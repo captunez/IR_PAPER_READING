@@ -1,0 +1,34 @@
+1. merit mean? [14, 42]
+
+2. amortized group fairness
+
+3. dynamic LTR - ranking function adapt based on user feedback
+
+4. controller problem, P controller
+
+5. cardinal relevance estimator, ordinal [4, 33]
+
+6. click models [19]
+
+7. PBM position-based model [21], proved in [5, 33, 47]
+estimate position bias [5, 23, 33, 47]
+explicit and implicit swap interventions
+contexture features in the PBM model, some queries useers may explore further down
+users may not naturally explore low enough, to avoid zero examination propensities [27] need active interventions
+
+reference
+online learning
+[18]
+
+matthew effect, bias
+[3, 32, 33, 40], [32]
+
+other systems handling fairness
+[14, 42, 43, 48], [7]
+
+
+[21] Nick Craswell, Onno Zoeter, Michael Taylor, and Bill Ramsey. 2008. An experimental comparison of click position-bias models. In WSDM.
+[32] T. Joachims, L. Granka, Bing Pan, H. Hembrooke, F. Radlinski, and G. Gay. 2007. Evaluating the Accuracy of Implicit Feedback from Clicks and Query Reformulations in Web Search. ACM TOIS (2007)
+[33] T. Joachims, A. Swaminathan, and T. Schnabel. 2017. Unbiased Learning-to-Rank with Biased Feedback. In WSDM.
+
+skipping fairness part for now

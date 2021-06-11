@@ -1,0 +1,9 @@
+1. click prob decays faster than examine prob, other sources of bias? [6]
+
+2. results at rank 1 near rank 1 are more likely to be clicked/viewed [6]
+
+3.  correct position bias by substracting the background click distribution from the query's click distribution [1]
+
+4. cascade model, skip or click
+
+5. Predict click prob when flip given the original click prob
